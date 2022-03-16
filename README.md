@@ -1,2 +1,2 @@
-# porcelanataria-prisma-site
+# Porcelanataria Prisma
  Site da loja Porcelanataria Pirsma
