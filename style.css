@@ -1,7 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-
 }
 
 body {
@@ -14,7 +13,6 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(188, 192, 148);
-
 }
 
 img {
@@ -41,6 +39,13 @@ h1 {
     margin-left: 27%;
     height: 195px;
     width: auto;
-    margin-top: 35%;
-    
+    margin-top: 35%;   
+}
+
+img.nicho {
+    display: block;
+    margin-left: 37%;
+    height: 195px;
+    width: auto;
+    margin-top: 50%;
 }
