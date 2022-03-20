@@ -16,8 +16,8 @@ body {
 }
 
 main {
-    background-color: white;
-    width: 80%;
+    background-color: rgb(255, 255, 255);
+    width: auto;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(188, 192, 148);
@@ -30,4 +30,9 @@ img {
     margin-right: auto;
     width: 100px;
     height: 100%;
+}
+
+iframe {
+    display: block;
+    margin-left: 10%;
 }
