@@ -9,10 +9,8 @@ body {
 
 main {
     background-color: rgb(255, 255, 255);
-    width: auto;
-    margin: auto;
-    padding: 0px;
     box-shadow: 3px 3px 5px rgb(188, 192, 148);
+    height: auto;
 }
 
 img {
@@ -27,6 +25,7 @@ iframe {
     display: block;
     margin-left: 15%;
     margin-top: 80px;
+    padding-bottom: 5em;
 }
 
 h1 {
@@ -39,7 +38,8 @@ h1 {
     margin-left: 27%;
     height: 195px;
     width: auto;
-    margin-top: 35%;   
+    margin-top: 35%;
+    padding-bottom: 5em;   
 }
 
 img.nicho {
@@ -48,4 +48,5 @@ img.nicho {
     height: 195px;
     width: auto;
     margin-top: 50%;
+    padding-bottom: 5em; 
 }
